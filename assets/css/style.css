@@ -1,0 +1,19 @@
+body{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    /* adicionando imagem de fundo */
+    background: url('/assets/images/comandos.jpg');
+    background-size: cover;
+    font-family: cursive;
+}
+.container{
+    background-color: brown;
+    width: 50%;
+    margin: 0 auto; /* tenha largura total*/
+    margin-left: 0 auto; /* a altura você navegador que se vire */
+    /* margin-top: 0 auto; background é a cor do fundo */
+    /*margin-bottom: 0 auto; é a largura do elemento*/
+    /*margin-left: 0 auto; espaço interno do elemento */
+    font-family: cursive
+ }
