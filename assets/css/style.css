@@ -17,3 +17,17 @@ body{
     /*margin-left: 0 auto; espaço interno do elemento */
     font-family: cursive
  }
+ h2{
+     text-align: center;
+ }
+ img{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+.borda{
+    border-width: 5px;
+    border-color: brown;
+    border-style: dashed;
+    border: 25px dotted [blue];
+}
