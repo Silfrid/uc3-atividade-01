@@ -31,3 +31,7 @@ body{
     border-style: dashed;
     border: 25px dotted [blue];
 }
+.agradecimento{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
